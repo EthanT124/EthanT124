@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ethan Trebish</h1>
 <h3 align="center">A passionate website developer from Saskatoon, Saskatchewan</h3>
 
-- 🔭 I’m currently working on my first Electron.js app **To Do Manager**
+- 🔭 I’m currently working on my first Electron.js app
 
 - 🌱 I’m currently learning **Electron.js and Svelte**
 
