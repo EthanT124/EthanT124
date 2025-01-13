@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Ethantrebish1@gmail.com**
 
-<h3 align="left" >Connect with me at: <a href="www.linkedin.com/in/ethan-trebish-0818b52aa" style="text-decoration: none;" >LinkedIn</a></h3>
+<h3 align="left" >Connect with me on <a href="https://www.linkedin.com/in/ethan-trebish-0818b52aa" style="text-decoration: none;" >LinkedIn</a></h3>
 <p align="left">
 </p>
 
