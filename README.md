@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Electron.js and Svelte**
 
-- 👨‍💻 All of my projects are available at [https://ethant124.github.io/EthanTrebish-Portfolio/](https://ethant124.github.io/EthanTrebish-Portfolio/)
+- 👨‍💻 My Portfolio is available at: [https://ethant124.github.io/EthanTrebish-Portfolio/](https://ethant124.github.io/EthanTrebish-Portfolio/)
 
 - 💬 Ask me about **JavaScript, ASP.Net and Ruby on Rails**
 
 - 📫 How to reach me **Ethantrebish1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at: [Linkedin](www.linkedin.com/in/ethan-trebish-0818b52aa)</h3>
 <p align="left">
 </p>
 
